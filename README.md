@@ -4,7 +4,7 @@
 Shows a spinning vinyl animation while music is playing.
 
 # Requirements
-* Rainmeter 3.2.1 r2386 (or higher) .
+* [Rainmeter](https://www.rainmeter.net) 3.2.1 r2386 (or higher).
 
 Some media players require additional plugins. More information can be found:
 
@@ -15,8 +15,11 @@ Some media players require additional plugins. More information can be found:
 After installing the skin, right click on on the skin and choose player interface.
 
 # Links
-* Rainmeter forum: https://forum.rainmeter.net/viewtopic.php?t=20789
-* Deviantart: https://www.deviantart.com/blantas/art/Animated-Vinyl-Player-0-2-Now-Supports-Spotify-525541351
+* Skin topic on Rainmeter: https://forum.rainmeter.net/viewtopic.php?t=20789
+* Skin page on Deviantart: https://www.deviantart.com/blantas/art/Animated-Vinyl-Player-0-2-Now-Supports-Spotify-525541351
+
+* [Vinyl case](https://365psd.com/day/3-21/)
+* [Vinyl icon](https://findicons.com/icon/77325/vinyl_pink?id=77332) by [God-x](https://www.deviantart.com/god-x).
 
 # License
 Creative Commons BY-NC-SA 4.0
