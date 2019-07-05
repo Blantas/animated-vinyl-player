@@ -1,5 +1,5 @@
 # animated-vinyl-player
-![Animated vinyl player][Other/cover.png?raw=true "Animated Vinyl Player"]
+![Animated vinyl player](Other/cover.png?raw=true "Animated Vinyl Player")
 
 Shows a spinning vinyl animation while music is playing.
 
